@@ -16,6 +16,19 @@
 
 
 
+**You can also find me at:**
+
+Contact :iphone:
+
+[![Gmail: ArandaBM](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunomoraesaranda1@gmail.com)](mailto:brunomoraesaranda1@gmail.com)
+[![WhatsApp: ArandaBM](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5518997993636)](https://api.whatsapp.com/send?phone=5518997993636)
+[![Telegram: ArandaBM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/arandabm)](https://t.me/arandabm)
+
+Social :speech_balloon:
+
+[![Linkedin: ArandaBM](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomaranda/)](https://www.linkedin.com/in/brunomaranda/)
+[![Instagram: ArandaBM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/brunomoraesaranda/)](https://www.instagram.com/brunomoraesaranda/)
+[![Youtube: ArandaBM](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC6BuuInO6fEi2-4j4_Fk76g)](https://www.youtube.com/channel/UC6BuuInO6fEi2-4j4_Fk76g)
 
 
-
+![ArandaBM wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ArandaBM)
