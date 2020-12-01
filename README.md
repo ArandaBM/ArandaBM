@@ -6,7 +6,7 @@
 - :mortar_board: I am a student in the Information Systems course at the Federal University of Mato Grosso do Sul, expected to conclude on 12/2021. 
 - 📫 I currently live in the city of Três Lagoas - Mato Grosso do Sul - Brazil.
 
-**Languages and Tools:**
+**Languages and Tools:**<br>
 <img src="https://img.icons8.com/dusk/20/000000/python.png"/>
 
 
