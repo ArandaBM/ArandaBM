@@ -1,5 +1,8 @@
 ### Olá amigo 😄👋
--Me chamo Bruno e atualmente tenho 21 anos de idade
+:shipit:-Me chamo Bruno e atualmente tenho 21 anos de idade, sou apaixonado por tecnologia e econômia.
+- 🔭 Atualmente, estou trabalhando na melhoria dos processos de medição de metas, contrução de relatórios estatisticos e visualizações de dados para prefeitura Municipal de Três Lagoas.
+- :blue_book:
+
 
 <!--
 **ArandaBM/ArandaBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
