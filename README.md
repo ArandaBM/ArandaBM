@@ -7,7 +7,8 @@
 - 📫 I currently live in the city of Três Lagoas - Mato Grosso do Sul - Brazil.
 
 **Languages and Tools:**<br>
-<img src="https://img.icons8.com/dusk/20/000000/python.png"/>
-<img src="https://i.ibb.co/s9Rs181/pandas-logo-300.png" alt="pandas-logo-300" border="0">
+<img src="https://img.icons8.com/dusk/50/000000/python.png"/>
+<code><img height="50" src="https://i.ibb.co/s9Rs181/pandas-logo-300.png" alt="pandas-logo-300"></code>
+
 
 
