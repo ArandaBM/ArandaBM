@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá amigo 😄👋
+-Me chamo Bruno e atualmente tenho 21 anos de idade
 
 <!--
 **ArandaBM/ArandaBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
