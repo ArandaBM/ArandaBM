@@ -14,7 +14,7 @@
 <code><img height="50" src="https://i.ibb.co/FHVR76K/microsoft-excel-2019-v1.png" alt="Excel" border="0"></code>
 <code><img height="50" src="https://i.ibb.co/mTkTgbV/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo.png" alt="Power BI" border="0"></code>
 
-
+![ArandaBM wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ArandaBM)
 
 **You can also find me at:**
 
@@ -29,6 +29,3 @@ Social :speech_balloon:
 [![Linkedin: ArandaBM](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomaranda/)](https://www.linkedin.com/in/brunomaranda/)
 [![Instagram: ArandaBM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/brunomoraesaranda/)](https://www.instagram.com/brunomoraesaranda/)
 [![Youtube: ArandaBM](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC6BuuInO6fEi2-4j4_Fk76g)](https://www.youtube.com/channel/UC6BuuInO6fEi2-4j4_Fk76g)
-
-
-![ArandaBM wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ArandaBM)
