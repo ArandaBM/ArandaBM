@@ -1,4 +1,6 @@
 ### Hey guys! 😄👋
+<code><img src="https://i.ibb.co/bm33B2d/200.gif" alt="200" border="0"></code>
+
 :shipit:My name is Bruno, I'm 21 years old, I'm passionate about technology and economics.
 
 - 🔭 I am working on improving goal measurement processes, building statistical reports and data visualizations for the Municipality of Três Lagoas.
