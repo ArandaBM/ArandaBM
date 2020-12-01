@@ -1,20 +1,8 @@
-### Olá amigo 😄👋
-:shipit:-Me chamo Bruno e atualmente tenho 21 anos de idade, sou apaixonado por tecnologia e econômia.
-- 🔭 Atualmente, estou trabalhando na melhoria dos processos de medição de metas, contrução de relatórios estatisticos e visualizações de dados para prefeitura Municipal de Três Lagoas.
-- :blue_book:
+### Hey guys! 😄👋
+- :shipit:My name is Bruno, I'm 21 years old, I'm passionate about technology and economics.
+- 🔭 I am working on improving goal measurement processes, building statistical reports and data visualizations for the Municipality of Três Lagoas.
+- :blue_book: My learning focus is on data science. More specifically, I am studying data mining, seeking to improve my understanding of the statistical methods in the area, and also, the improvement in tools for visualizing the extracted information.
+-:mortar_board: I am a student in the Information Systems course at the Federal University of Mato Grosso do Sul, expected to conclude on 12/2021. 
+- 📫 I currently live in the city of Três Lagoas - Mato Grosso do Sul - Brazil
 
 
-<!--
-**ArandaBM/ArandaBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
