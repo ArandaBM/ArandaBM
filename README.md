@@ -5,7 +5,6 @@
 
 - 🔭 I'm working as a data scientist at the startup "Play Serviços".
 - :blue_book: My learning focus is data science, more specifically, I study data mining, looking for improve my knowledge of statistical methods in this area, also, the best understanding of information visualization tools.
-- :seedling: In my spare time, I develop a mobile application project, for managing consultations and patients, with the target on independent health professionals.
 - :mortar_board:  I am a student in the Information Systems bachelor course at the Federal University of Mato Grosso do Sul, expected to conclude at 12/2021.
 - 📫 I currently live in the city of Três Lagoas - Mato Grosso do Sul - Brazil.
 
