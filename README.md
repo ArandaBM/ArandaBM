@@ -16,7 +16,6 @@
 <code><img height="50" src="https://i.ibb.co/FHVR76K/microsoft-excel-2019-v1.png" alt="Excel" border="0"></code>
 <code><img height="50" src="https://i.ibb.co/mTkTgbV/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo.png" alt="Power BI" border="0"></code>
 
-![ArandaBM wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ArandaBM)
 
 **You can also find me at:**
 
