@@ -1,7 +1,7 @@
 ### Hey guys! 😄👋
 <code><img src="https://i.ibb.co/bm33B2d/200.gif" alt="200" border="0"></code>
 
-:shipit:My name is Bruno, I'm 25 years old, I'm passionate about technology and economics.
+:shipit:My name is Bruno, I'm 25 and passionate about technology and economics.
 
 **Languages and Tools:**<br>
 <code><img height="50" src="https://img.icons8.com/dusk/50/000000/python.png" alt="Python"></code>
