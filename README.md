@@ -1,12 +1,7 @@
 ### Hey guys! 😄👋
 <code><img src="https://i.ibb.co/bm33B2d/200.gif" alt="200" border="0"></code>
 
-:shipit:My name is Bruno, I'm 21 years old, I'm passionate about technology and economics.
-
-- 🔭 I'm working as a data scientist at the startup "Play Serviços".
-- :blue_book: My learning focus is data science, more specifically, I study data mining, looking for improve my knowledge of statistical methods in this area, also, the best understanding of information visualization tools.
-- :mortar_board:  I am a student in the Information Systems bachelor course at the Federal University of Mato Grosso do Sul, expected to conclude at 12/2021.
-- 📫 I currently live in the city of Três Lagoas - Mato Grosso do Sul - Brazil.
+:shipit:My name is Bruno, I'm 25 years old, I'm passionate about technology and economics.
 
 **Languages and Tools:**<br>
 <code><img height="50" src="https://img.icons8.com/dusk/50/000000/python.png" alt="Python"></code>
