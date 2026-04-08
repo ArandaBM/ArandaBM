@@ -1,27 +1,28 @@
-### Hey guys! 😄👋
-<code><img src="https://i.ibb.co/bm33B2d/200.gif" alt="200" border="0"></code>
+# Olá! Eu sou o Bruno Aranda 👋
 
-:shipit:My name is Bruno, I'm 25 and passionate about technology and economics.
+Sou um profissional apaixonado por desvendar padrões e resolver problemas complexos através de **Data Science, Inteligência Artificial e Analytics**. Minha jornada na tecnologia é movida pela vontade de transformar dados brutos em inteligência e inovação.
 
-**Languages and Tools:**<br>
-<code><img height="50" src="https://img.icons8.com/dusk/50/000000/python.png" alt="Python"></code>
-<code><img height="50" src="https://i.ibb.co/s9Rs181/pandas-logo-300.png" alt="Pandas"></code>
-<code><img height="50" src="https://i.ibb.co/QdbLjW8/1200px-Scikit-learn-logo-small-svg.png" alt="Scikit learn" border="0"></code>
-<code><img height="50" src="https://i.ibb.co/Mkjqb6q/Tensorflow-logo-svg.png" alt="Tensorflow" border="0"></code>
-<code><img height="50" src="https://i.ibb.co/FHVR76K/microsoft-excel-2019-v1.png" alt="Excel" border="0"></code>
-<code><img height="50" src="https://i.ibb.co/mTkTgbV/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo.png" alt="Power BI" border="0"></code>
+## 🚀 Minha Jornada e Desafios
 
+Ao longo da minha trajetória, tenho me dedicado a ser a ponte entre a complexidade técnica e a estratégia de negócios. Já enfrentei desafios variados: desde a estruturação de dados desorganizados e a modelagem de dashboards analíticos avançados, até a exploração e implementação de algoritmos de Machine Learning para análises preditivas. 
 
-**You can also find me at:**
+Meu foco sempre foi entender o "porquê" por trás dos números e utilizar a Inteligência Artificial não apenas como uma ferramenta técnica, mas como um motor para otimizar processos e criar soluções escaláveis.
 
-Contact :iphone:
+## 🎓 Formação e Foco Atual
 
-[![Gmail: ArandaBM](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunomoraesaranda1@gmail.com)](mailto:brunomoraesaranda1@gmail.com)
-[![WhatsApp: ArandaBM](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5518997993636)](https://api.whatsapp.com/send?phone=5518997993636)
-[![Telegram: ArandaBM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/arandabm)](https://t.me/arandabm)
+Acredito no aprendizado contínuo para acompanhar a rápida evolução da IA e da ciência de dados.
 
-Social :speech_balloon:
+- 🎓 **MBA em Tecnologia para Negócios: AI, Data Science e Big Data** – PUCRS (2026)
+- 💼 Possuo também uma sólida base de negócios com um MBA anterior, o que me ajuda a ter uma visão estratégica sobre projetos técnicos.
+- 🎯 **Desafio Pessoal:** Estou no processo de desenvolver e publicar um novo projeto prático de Data Science por mês aqui no GitHub.
 
-[![Linkedin: ArandaBM](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomaranda/)](https://www.linkedin.com/in/brunomaranda/)
-[![Instagram: ArandaBM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/brunomoraesaranda/)](https://www.instagram.com/brunomoraesaranda/)
-[![Youtube: ArandaBM](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC6BuuInO6fEi2-4j4_Fk76g)](https://www.youtube.com/channel/UC6BuuInO6fEi2-4j4_Fk76g)
+## 🛠️ Minha Caixa de Ferramentas
+
+- **Data Science & IA:** Machine Learning, análise preditiva, bibliotecas Python (Pandas, Scikit-learn).
+- **Linguagens:** Python, SQL, DAX.
+- **BI & Analytics:** Power BI, Amplitude, Google Tag Manager.
+- **Cloud & Bancos de Dados:** Google Cloud Platform (GCP), BigQuery.
+
+---
+
+*Sinta-se à vontade para explorar meus repositórios abaixo!*
