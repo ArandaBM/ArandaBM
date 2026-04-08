@@ -1,4 +1,4 @@
-# Olá! Eu sou o Bruno Aranda 👋
+# Olá! 👋
 
 Sou um profissional apaixonado por desvendar padrões e resolver problemas complexos através de **Data Science, Inteligência Artificial e Analytics**. Minha jornada na tecnologia é movida pela vontade de transformar dados brutos em inteligência e inovação.
 
